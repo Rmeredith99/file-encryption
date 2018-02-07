@@ -5,8 +5,8 @@ from random import randint
 
 ###
 # Enter file names here
-read_file = "data2.txt"
-write_file = "data2.txt"
+read_file = raw_input("Enter the file name to read from: ")
+write_file = raw_input("Enter the file name to wrtie to: ")
 ###
 
 
